@@ -1,0 +1,260 @@
+{
+    "table_data": [
+        {
+            "Att": "Ravens\n            \n          \n\n            Ravens",
+            "Rush Yds": "267",
+            "YPC": "1141",
+            "TD": "4.3",
+            "Rush 1st": "4",
+            "Rush 1st%": "61"
+        },
+        {
+            "Att": "Browns\n            \n          \n\n            Browns",
+            "Rush Yds": "242",
+            "YPC": "996",
+            "TD": "4.1",
+            "Rush 1st": "10",
+            "Rush 1st%": "45"
+        },
+        {
+            "Att": "49ers\n            \n          \n\n            49ers",
+            "Rush Yds": "225",
+            "YPC": "902",
+            "TD": "4",
+            "Rush 1st": "5",
+            "Rush 1st%": "64"
+        },
+        {
+            "Att": "Lions\n            \n          \n\n            Lions",
+            "Rush Yds": "260",
+            "YPC": "1004",
+            "TD": "3.9",
+            "Rush 1st": "8",
+            "Rush 1st%": "56"
+        },
+        {
+            "Att": "Bears\n            \n          \n\n            Bears",
+            "Rush Yds": "258",
+            "YPC": "875",
+            "TD": "3.4",
+            "Rush 1st": "6",
+            "Rush 1st%": "55"
+        },
+        {
+            "Att": "Eagles\n            \n          \n\n            Eagles",
+            "Rush Yds": "190",
+            "YPC": "765",
+            "TD": "4",
+            "Rush 1st": "3",
+            "Rush 1st%": "43"
+        },
+        {
+            "Att": "Falcons\n            \n          \n\n            Falcons",
+            "Rush Yds": "276",
+            "YPC": "1084",
+            "TD": "3.9",
+            "Rush 1st": "4",
+            "Rush 1st%": "55"
+        },
+        {
+            "Att": "Giants\n            \n          \n\n            Giants",
+            "Rush Yds": "309",
+            "YPC": "1486",
+            "TD": "4.8",
+            "Rush 1st": "17",
+            "Rush 1st%": "83"
+        },
+        {
+            "Att": "Cowboys\n            \n          \n\n            Cowboys",
+            "Rush Yds": "291",
+            "YPC": "1200",
+            "TD": "4.1",
+            "Rush 1st": "8",
+            "Rush 1st%": "64"
+        },
+        {
+            "Att": "Bills\n            \n          \n\n            Bills",
+            "Rush Yds": "268",
+            "YPC": "1215",
+            "TD": "4.5",
+            "Rush 1st": "6",
+            "Rush 1st%": "56"
+        },
+        {
+            "Att": "Jaguars\n            \n          \n\n            Jaguars",
+            "Rush Yds": "225",
+            "YPC": "870",
+            "TD": "3.9",
+            "Rush 1st": "6",
+            "Rush 1st%": "52"
+        },
+        {
+            "Att": "Cardinals\n            \n          \n\n            Cardinals",
+            "Rush Yds": "344",
+            "YPC": "1453",
+            "TD": "4.2",
+            "Rush 1st": "15",
+            "Rush 1st%": "92"
+        },
+        {
+            "Att": "Colts\n            \n          \n\n            Colts",
+            "Rush Yds": "318",
+            "YPC": "1297",
+            "TD": "4.1",
+            "Rush 1st": "15",
+            "Rush 1st%": "80"
+        },
+        {
+            "Att": "Saints\n            \n          \n\n            Saints",
+            "Rush Yds": "264",
+            "YPC": "1136",
+            "TD": "4.3",
+            "Rush 1st": "6",
+            "Rush 1st%": "56"
+        },
+        {
+            "Att": "Texans\n            \n          \n\n            Texans",
+            "Rush Yds": "264",
+            "YPC": "965",
+            "TD": "3.7",
+            "Rush 1st": "12",
+            "Rush 1st%": "68"
+        },
+        {
+            "Att": "Vikings\n            \n          \n\n            Vikings",
+            "Rush Yds": "281",
+            "YPC": "1034",
+            "TD": "3.7",
+            "Rush 1st": "7",
+            "Rush 1st%": "67"
+        },
+        {
+            "Att": "Packers\n            \n          \n\n            Packers",
+            "Rush Yds": "341",
+            "YPC": "1487",
+            "TD": "4.4",
+            "Rush 1st": "10",
+            "Rush 1st%": "85"
+        },
+        {
+            "Att": "Raiders\n            \n          \n\n            Raiders",
+            "Rush Yds": "324",
+            "YPC": "1455",
+            "TD": "4.5",
+            "Rush 1st": "10",
+            "Rush 1st%": "82"
+        },
+        {
+            "Att": "Rams\n            \n          \n\n            Rams",
+            "Rush Yds": "283",
+            "YPC": "1173",
+            "TD": "4.1",
+            "Rush 1st": "10",
+            "Rush 1st%": "67"
+        },
+        {
+            "Att": "Chargers\n            \n          \n\n            Chargers",
+            "Rush Yds": "252",
+            "YPC": "1020",
+            "TD": "4",
+            "Rush 1st": "12",
+            "Rush 1st%": "59"
+        },
+        {
+            "Att": "Commanders\n            \n          \n\n            Commanders",
+            "Rush Yds": "305",
+            "YPC": "1357",
+            "TD": "4.4",
+            "Rush 1st": "7",
+            "Rush 1st%": "71"
+        },
+        {
+            "Att": "Chiefs\n            \n          \n\n            Chiefs",
+            "Rush Yds": "249",
+            "YPC": "1124",
+            "TD": "4.5",
+            "Rush 1st": "6",
+            "Rush 1st%": "62"
+        },
+        {
+            "Att": "Steelers\n            \n          \n\n            Steelers",
+            "Rush Yds": "290",
+            "YPC": "1277",
+            "TD": "4.4",
+            "Rush 1st": "6",
+            "Rush 1st%": "64"
+        },
+        {
+            "Att": "Seahawks\n            \n          \n\n            Seahawks",
+            "Rush Yds": "305",
+            "YPC": "1295",
+            "TD": "4.2",
+            "Rush 1st": "14",
+            "Rush 1st%": "78"
+        },
+        {
+            "Att": "Dolphins\n            \n          \n\n            Dolphins",
+            "Rush Yds": "261",
+            "YPC": "992",
+            "TD": "3.8",
+            "Rush 1st": "9",
+            "Rush 1st%": "70"
+        },
+        {
+            "Att": "Buccaneers\n            \n          \n\n            Buccaneers",
+            "Rush Yds": "241",
+            "YPC": "900",
+            "TD": "3.7",
+            "Rush 1st": "4",
+            "Rush 1st%": "54"
+        },
+        {
+            "Att": "Broncos\n            \n          \n\n            Broncos",
+            "Rush Yds": "292",
+            "YPC": "1600",
+            "TD": "5.5",
+            "Rush 1st": "11",
+            "Rush 1st%": "78"
+        },
+        {
+            "Att": "Patriots\n            \n          \n\n            Patriots",
+            "Rush Yds": "287",
+            "YPC": "977",
+            "TD": "3.4",
+            "Rush 1st": "9",
+            "Rush 1st%": "57"
+        },
+        {
+            "Att": "Titans\n            \n          \n\n            Titans",
+            "Rush Yds": "291",
+            "YPC": "1123",
+            "TD": "3.9",
+            "Rush 1st": "7",
+            "Rush 1st%": "60"
+        },
+        {
+            "Att": "Panthers\n            \n          \n\n            Panthers",
+            "Rush Yds": "302",
+            "YPC": "1294",
+            "TD": "4.3",
+            "Rush 1st": "16",
+            "Rush 1st%": "78"
+        },
+        {
+            "Att": "Jets\n            \n          \n\n            Jets",
+            "Rush Yds": "328",
+            "YPC": "1376",
+            "TD": "4.2",
+            "Rush 1st": "5",
+            "Rush 1st%": "74"
+        },
+        {
+            "Att": "Bengals\n            \n          \n\n            Bengals",
+            "Rush Yds": "274",
+            "YPC": "1383",
+            "TD": "5",
+            "Rush 1st": "11",
+            "Rush 1st%": "82"
+        }
+    ]
+}

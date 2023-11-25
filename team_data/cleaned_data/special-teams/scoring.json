@@ -1,0 +1,260 @@
+{
+    "table_data": [
+        {
+            "FGM": "Browns\n            \n          \n\n            Browns",
+            "FG %": "26",
+            "XPM": "89.7",
+            "XP Pct": "15",
+            "KRet TD": "93.8",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Seahawks\n            \n          \n\n            Seahawks",
+            "FG %": "25",
+            "XPM": "80.6",
+            "XP Pct": "20",
+            "KRet TD": "100",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Jets\n            \n          \n\n            Jets",
+            "FG %": "23",
+            "XPM": "95.8",
+            "XP Pct": "7",
+            "KRet TD": "100",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Cowboys\n            \n          \n\n            Cowboys",
+            "FG %": "22",
+            "XPM": "100",
+            "XP Pct": "33",
+            "KRet TD": "91.7",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Broncos\n            \n          \n\n            Broncos",
+            "FG %": "22",
+            "XPM": "91.7",
+            "XP Pct": "15",
+            "KRet TD": "88.2",
+            "PRet T": "1"
+        },
+        {
+            "FGM": "Texans\n            \n          \n\n            Texans",
+            "FG %": "22",
+            "XPM": "91.7",
+            "XP Pct": "20",
+            "KRet TD": "100",
+            "PRet T": "1"
+        },
+        {
+            "FGM": "Falcons\n            \n          \n\n            Falcons",
+            "FG %": "21",
+            "XPM": "95.4",
+            "XP Pct": "14",
+            "KRet TD": "93.3",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Titans\n            \n          \n\n            Titans",
+            "FG %": "21",
+            "XPM": "95.4",
+            "XP Pct": "15",
+            "KRet TD": "100",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Rams\n            \n          \n\n            Rams",
+            "FG %": "21",
+            "XPM": "75",
+            "XP Pct": "14",
+            "KRet TD": "93.3",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Jaguars\n            \n          \n\n            Jaguars",
+            "FG %": "20",
+            "XPM": "90.9",
+            "XP Pct": "22",
+            "KRet TD": "100",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Ravens\n            \n          \n\n            Ravens",
+            "FG %": "19",
+            "XPM": "82.6",
+            "XP Pct": "33",
+            "KRet TD": "97.1",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Bears\n            \n          \n\n            Bears",
+            "FG %": "19",
+            "XPM": "95",
+            "XP Pct": "21",
+            "KRet TD": "95.4",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Chiefs\n            \n          \n\n            Chiefs",
+            "FG %": "19",
+            "XPM": "100",
+            "XP Pct": "24",
+            "KRet TD": "100",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Raiders\n            \n          \n\n            Raiders",
+            "FG %": "19",
+            "XPM": "86.4",
+            "XP Pct": "16",
+            "KRet TD": "100",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Saints\n            \n          \n\n            Saints",
+            "FG %": "19",
+            "XPM": "79.2",
+            "XP Pct": "19",
+            "KRet TD": "100",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Cardinals\n            \n          \n\n            Cardinals",
+            "FG %": "19",
+            "XPM": "90.5",
+            "XP Pct": "11",
+            "KRet TD": "91.7",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Eagles\n            \n          \n\n            Eagles",
+            "FG %": "18",
+            "XPM": "90",
+            "XP Pct": "29",
+            "KRet TD": "96.7",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Steelers\n            \n          \n\n            Steelers",
+            "FG %": "18",
+            "XPM": "94.7",
+            "XP Pct": "14",
+            "KRet TD": "100",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Panthers\n            \n          \n\n            Panthers",
+            "FG %": "17",
+            "XPM": "85",
+            "XP Pct": "14",
+            "KRet TD": "93.3",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Colts\n            \n          \n\n            Colts",
+            "FG %": "17",
+            "XPM": "85",
+            "XP Pct": "25",
+            "KRet TD": "100",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Vikings\n            \n          \n\n            Vikings",
+            "FG %": "17",
+            "XPM": "77.3",
+            "XP Pct": "26",
+            "KRet TD": "92.9",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "49ers\n            \n          \n\n            49ers",
+            "FG %": "17",
+            "XPM": "85",
+            "XP Pct": "37",
+            "KRet TD": "100",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Buccaneers\n            \n          \n\n            Buccaneers",
+            "FG %": "17",
+            "XPM": "89.5",
+            "XP Pct": "17",
+            "KRet TD": "100",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Commanders\n            \n          \n\n            Commanders",
+            "FG %": "17",
+            "XPM": "81",
+            "XP Pct": "23",
+            "KRet TD": "92",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Bills\n            \n          \n\n            Bills",
+            "FG %": "16",
+            "XPM": "84.2",
+            "XP Pct": "30",
+            "KRet TD": "96.8",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Bengals\n            \n          \n\n            Bengals",
+            "FG %": "16",
+            "XPM": "80",
+            "XP Pct": "22",
+            "KRet TD": "100",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Chargers\n            \n          \n\n            Chargers",
+            "FG %": "16",
+            "XPM": "94.1",
+            "XP Pct": "29",
+            "KRet TD": "100",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Packers\n            \n          \n\n            Packers",
+            "FG %": "15",
+            "XPM": "79",
+            "XP Pct": "20",
+            "KRet TD": "87",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Lions\n            \n          \n\n            Lions",
+            "FG %": "13",
+            "XPM": "86.7",
+            "XP Pct": "31",
+            "KRet TD": "96.9",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Giants\n            \n          \n\n            Giants",
+            "FG %": "13",
+            "XPM": "68.4",
+            "XP Pct": "14",
+            "KRet TD": "100",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Patriots\n            \n          \n\n            Patriots",
+            "FG %": "12",
+            "XPM": "70.6",
+            "XP Pct": "13",
+            "KRet TD": "100",
+            "PRet T": "0"
+        },
+        {
+            "FGM": "Dolphins\n            \n          \n\n            Dolphins",
+            "FG %": "9",
+            "XPM": "75",
+            "XP Pct": "38",
+            "KRet TD": "97.4",
+            "PRet T": "0"
+        }
+    ]
+}
