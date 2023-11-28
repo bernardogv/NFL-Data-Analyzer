@@ -1,27 +1,54 @@
 import pandas as pd
-from sklearn.preprocessing import StandardScaler
-import seaborn as sns
-import matplotlib.pyplot as plt
 
-def load_data():
-    return pd.read_csv('../team_data/preprocessed_data/offense_preprocessed.csv')
+def load_data(file_path):
+    return pd.read_csv(file_path)
 
-def standardize_stats(data):
-    scaler = StandardScaler()
-    numeric_data = data.select_dtypes(include=['float64', 'int64'])
-    data[numeric_data.columns] = scaler.fit_transform(numeric_data)
-    return data
+def compare_teams(data, team1, team2, stat_type):
+    team1_data = data[data['team_name'] == team1]
+    team2_data = data[data['team_name'] == team2]
 
-def plot_comparison(data):
-    plt.figure(figsize=(12, 10))
-    sns.heatmap(data.set_index('team_name').T, annot=True, cmap='coolwarm')
-    plt.title('Standardized Offensive Stats Comparison')
-    plt.show()
+    if team1_data.empty or team2_data.empty:
+        print(f"One or both teams not found: {team1}, {team2}")
+        return
+
+    # Dropping non-numeric columns for comparison
+    team1_data = team1_data.select_dtypes(include=['float64', 'int64'])
+    team2_data = team2_data.select_dtypes(include=['float64', 'int64'])
+
+    team1_better_count = 0
+    team2_better_count = 0
+
+    print(f"--- {stat_type} Stats Comparison ---")
+    for stat in team1_data.columns:
+        team1_stat = team1_data[stat].values[0]
+        team2_stat = team2_data[stat].values[0]
+        if team1_stat > team2_stat:
+            winner = team1
+            team1_better_count += 1
+        else:
+            winner = team2
+            team2_better_count += 1
+        print(f"{stat}: {team1} ({team1_stat}) vs {team2} ({team2_stat}) - Higher: {winner}")
+
+    overall_winner = team1 if team1_better_count > team2_better_count else team2
+    print(f"\nOverall {stat_type} Winner: {overall_winner} ({team1_better_count} vs {team2_better_count})\n")
 
 def main():
-    offense_data = load_data()
-    offense_data = standardize_stats(offense_data)
-    plot_comparison(offense_data)
+    # Specify the two teams to compare
+    team1 = 'Seahawks'  # Replace with actual team name
+    team2 = 'Cowboys'
+
+    # Load and compare offense data
+    offense_data = load_data('../team_data/preprocessed_data/offense_preprocessed.csv')
+    compare_teams(offense_data, team1, team2, "Offense")
+
+    # Load and compare defense data
+    defense_data = load_data('../team_data/preprocessed_data/defense_preprocessed.csv')
+    compare_teams(defense_data, team1, team2, "Defense")
+
+    # Load and compare special teams data
+    special_teams_data = load_data('../team_data/preprocessed_data/special-teams_preprocessed.csv')
+    compare_teams(special_teams_data, team1, team2, "Special Teams")
 
 if __name__ == '__main__':
     main()
