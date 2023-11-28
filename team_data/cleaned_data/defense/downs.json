@@ -1,292 +1,324 @@
 {
-    "table_data": [
+    "team_data": [
         {
-            "3rd Att": "Giants\n            \n          \n\n            Giants",
-            "3rd Md": "140",
-            "4th Att": "50",
-            "4th Md": "12",
-            "Rush 1st": "5",
-            "Rush 1st%": "83",
-            "Scrm Plys": "26.9"
-        },
-        {
-            "3rd Att": "Commanders\n            \n          \n\n            Commanders",
-            "3rd Md": "162",
-            "4th Att": "64",
-            "4th Md": "15",
-            "Rush 1st": "9",
-            "Rush 1st%": "71",
-            "Scrm Plys": "23.3"
-        },
-        {
-            "3rd Att": "Browns\n            \n          \n\n            Browns",
-            "3rd Md": "126",
-            "4th Att": "32",
-            "4th Md": "6",
-            "Rush 1st": "4",
-            "Rush 1st%": "45",
-            "Scrm Plys": "18.6"
-        },
-        {
-            "3rd Att": "Lions\n            \n          \n\n            Lions",
-            "3rd Md": "127",
-            "4th Att": "46",
-            "4th Md": "17",
-            "Rush 1st": "10",
-            "Rush 1st%": "56",
-            "Scrm Plys": "21.5"
-        },
-        {
-            "3rd Att": "Cowboys\n            \n          \n\n            Cowboys",
-            "3rd Md": "143",
-            "4th Att": "49",
-            "4th Md": "24",
-            "Rush 1st": "13",
-            "Rush 1st%": "64",
-            "Scrm Plys": "22"
-        },
-        {
-            "3rd Att": "Vikings\n            \n          \n\n            Vikings",
-            "3rd Md": "152",
-            "4th Att": "63",
-            "4th Md": "16",
-            "Rush 1st": "10",
-            "Rush 1st%": "67",
-            "Scrm Plys": "23.8"
-        },
-        {
-            "3rd Att": "Packers\n            \n          \n\n            Packers",
-            "3rd Md": "158",
-            "4th Att": "63",
-            "4th Md": "22",
-            "Rush 1st": "11",
-            "Rush 1st%": "85",
-            "Scrm Plys": "24.9"
-        },
-        {
-            "3rd Att": "Saints\n            \n          \n\n            Saints",
-            "3rd Md": "138",
-            "4th Att": "48",
-            "4th Md": "10",
-            "Rush 1st": "5",
-            "Rush 1st%": "56",
-            "Scrm Plys": "21.2"
-        },
-        {
-            "3rd Att": "Bears\n            \n          \n\n            Bears",
-            "3rd Md": "143",
-            "4th Att": "68",
-            "4th Md": "13",
-            "Rush 1st": "8",
-            "Rush 1st%": "55",
-            "Scrm Plys": "21.3"
-        },
-        {
-            "3rd Att": "Panthers\n            \n          \n\n            Panthers",
-            "3rd Md": "126",
-            "4th Att": "46",
-            "4th Md": "7",
-            "Rush 1st": "5",
-            "Rush 1st%": "78",
-            "Scrm Plys": "25.8"
-        },
-        {
-            "3rd Att": "Colts\n            \n          \n\n            Colts",
-            "3rd Md": "146",
-            "4th Att": "56",
-            "4th Md": "16",
-            "Rush 1st": "10",
-            "Rush 1st%": "80",
-            "Scrm Plys": "25.2"
-        },
-        {
-            "3rd Att": "Falcons\n            \n          \n\n            Falcons",
-            "3rd Md": "128",
-            "4th Att": "44",
-            "4th Md": "10",
-            "Rush 1st": "5",
-            "Rush 1st%": "55",
-            "Scrm Plys": "19.9"
-        },
-        {
-            "3rd Att": "Ravens\n            \n          \n\n            Ravens",
-            "3rd Md": "162",
-            "4th Att": "57",
-            "4th Md": "19",
-            "Rush 1st": "7",
-            "Rush 1st%": "61",
-            "Scrm Plys": "22.8"
-        },
-        {
-            "3rd Att": "Chargers\n            \n          \n\n            Chargers",
-            "3rd Md": "129",
-            "4th Att": "46",
-            "4th Md": "24",
-            "Rush 1st": "15",
-            "Rush 1st%": "59",
-            "Scrm Plys": "23.4"
-        },
-        {
-            "3rd Att": "Buccaneers\n            \n          \n\n            Buccaneers",
-            "3rd Md": "135",
-            "4th Att": "63",
-            "4th Md": "10",
-            "Rush 1st": "4",
-            "Rush 1st%": "54",
-            "Scrm Plys": "22.4"
-        },
-        {
-            "3rd Att": "Texans\n            \n          \n\n            Texans",
-            "3rd Md": "134",
-            "4th Att": "55",
-            "4th Md": "13",
-            "Rush 1st": "5",
-            "Rush 1st%": "68",
-            "Scrm Plys": "25.8"
-        },
-        {
-            "3rd Att": "Eagles\n            \n          \n\n            Eagles",
-            "3rd Md": "132",
-            "4th Att": "57",
-            "4th Md": "24",
-            "Rush 1st": "11",
-            "Rush 1st%": "43",
-            "Scrm Plys": "22.6"
-        },
-        {
-            "3rd Att": "Cardinals\n            \n          \n\n            Cardinals",
-            "3rd Md": "139",
-            "4th Att": "65",
-            "4th Md": "11",
-            "Rush 1st": "4",
-            "Rush 1st%": "92",
-            "Scrm Plys": "26.7"
-        },
-        {
-            "3rd Att": "Steelers\n            \n          \n\n            Steelers",
-            "3rd Md": "143",
-            "4th Att": "56",
-            "4th Md": "13",
-            "Rush 1st": "6",
-            "Rush 1st%": "64",
-            "Scrm Plys": "22.1"
-        },
-        {
-            "3rd Att": "Rams\n            \n          \n\n            Rams",
-            "3rd Md": "132",
-            "4th Att": "53",
-            "4th Md": "13",
-            "Rush 1st": "9",
-            "Rush 1st%": "67",
-            "Scrm Plys": "23.7"
-        },
-        {
-            "3rd Att": "Seahawks\n            \n          \n\n            Seahawks",
-            "3rd Md": "152",
-            "4th Att": "67",
-            "4th Md": "17",
-            "Rush 1st": "6",
-            "Rush 1st%": "78",
-            "Scrm Plys": "25.6"
-        },
-        {
-            "3rd Att": "Bills\n            \n          \n\n            Bills",
-            "3rd Md": "145",
-            "4th Att": "56",
-            "4th Md": "16",
-            "Rush 1st": "9",
-            "Rush 1st%": "56",
-            "Scrm Plys": "20.9"
-        },
-        {
-            "3rd Att": "Raiders\n            \n          \n\n            Raiders",
-            "3rd Md": "143",
-            "4th Att": "60",
-            "4th Md": "15",
-            "Rush 1st": "7",
-            "Rush 1st%": "82",
-            "Scrm Plys": "25.3"
-        },
-        {
-            "3rd Att": "Patriots\n            \n          \n\n            Patriots",
-            "3rd Md": "139",
-            "4th Att": "55",
-            "4th Md": "12",
-            "Rush 1st": "8",
-            "Rush 1st%": "57",
-            "Scrm Plys": "19.9"
-        },
-        {
-            "3rd Att": "Jaguars\n            \n          \n\n            Jaguars",
-            "3rd Md": "130",
-            "4th Att": "44",
-            "4th Md": "25",
-            "Rush 1st": "12",
-            "Rush 1st%": "52",
-            "Scrm Plys": "23.1"
-        },
-        {
-            "3rd Att": "Jets\n            \n          \n\n            Jets",
-            "3rd Md": "149",
-            "4th Att": "59",
+            "team_name": "Giants",
+            "3rd Att": "140",
+            "3rd Md": "50",
+            "4th Att": "12",
             "4th Md": "5",
-            "Rush 1st": "4",
-            "Rush 1st%": "74",
-            "Scrm Plys": "22.6"
+            "Rush 1st": "83",
+            "Rush 1st%": "26.9",
+            "Scrm Plys": "699"
         },
         {
-            "3rd Att": "Bengals\n            \n          \n\n            Bengals",
-            "3rd Md": "121",
-            "4th Att": "53",
+            "team_name": "Commanders",
+            "3rd Att": "162",
+            "3rd Md": "64",
+            "4th Att": "15",
+            "4th Md": "9",
+            "Rush 1st": "71",
+            "Rush 1st%": "23.3",
+            "Scrm Plys": "763"
+        },
+        {
+            "team_name": "Browns",
+            "3rd Att": "126",
+            "3rd Md": "32",
+            "4th Att": "6",
+            "4th Md": "4",
+            "Rush 1st": "45",
+            "Rush 1st%": "18.6",
+            "Scrm Plys": "539"
+        },
+        {
+            "team_name": "Lions",
+            "3rd Att": "127",
+            "3rd Md": "46",
+            "4th Att": "17",
+            "4th Md": "10",
+            "Rush 1st": "56",
+            "Rush 1st%": "21.5",
+            "Scrm Plys": "659"
+        },
+        {
+            "team_name": "Cowboys",
+            "3rd Att": "143",
+            "3rd Md": "49",
+            "4th Att": "24",
+            "4th Md": "13",
+            "Rush 1st": "64",
+            "Rush 1st%": "22",
+            "Scrm Plys": "653"
+        },
+        {
+            "team_name": "Vikings",
+            "3rd Att": "152",
+            "3rd Md": "63",
+            "4th Att": "16",
+            "4th Md": "10",
+            "Rush 1st": "67",
+            "Rush 1st%": "23.8",
+            "Scrm Plys": "699"
+        },
+        {
+            "team_name": "Packers",
+            "3rd Att": "158",
+            "3rd Md": "63",
+            "4th Att": "22",
+            "4th Md": "11",
+            "Rush 1st": "85",
+            "Rush 1st%": "24.9",
+            "Scrm Plys": "724"
+        },
+        {
+            "team_name": "Saints",
+            "3rd Att": "138",
+            "3rd Md": "48",
+            "4th Att": "10",
+            "4th Md": "5",
+            "Rush 1st": "56",
+            "Rush 1st%": "21.2",
+            "Scrm Plys": "619"
+        },
+        {
+            "team_name": "Bears",
+            "3rd Att": "143",
+            "3rd Md": "68",
+            "4th Att": "13",
             "4th Md": "8",
-            "Rush 1st": "2",
-            "Rush 1st%": "82",
-            "Scrm Plys": "29.9"
+            "Rush 1st": "55",
+            "Rush 1st%": "21.3",
+            "Scrm Plys": "675"
         },
         {
-            "3rd Att": "Chiefs\n            \n          \n\n            Chiefs",
-            "3rd Md": "126",
-            "4th Att": "45",
-            "4th Md": "16",
-            "Rush 1st": "7",
-            "Rush 1st%": "62",
-            "Scrm Plys": "24.9"
+            "team_name": "Panthers",
+            "3rd Att": "126",
+            "3rd Md": "46",
+            "4th Att": "7",
+            "4th Md": "5",
+            "Rush 1st": "78",
+            "Rush 1st%": "25.8",
+            "Scrm Plys": "613"
         },
         {
-            "3rd Att": "Broncos\n            \n          \n\n            Broncos",
-            "3rd Md": "114",
-            "4th Att": "44",
-            "4th Md": "19",
-            "Rush 1st": "10",
-            "Rush 1st%": "78",
-            "Scrm Plys": "26.7"
+            "team_name": "Jets",
+            "3rd Att": "165",
+            "3rd Md": "70",
+            "4th Att": "6",
+            "4th Md": "4",
+            "Rush 1st": "80",
+            "Rush 1st%": "21.9",
+            "Scrm Plys": "740"
         },
         {
-            "3rd Att": "Titans\n            \n          \n\n            Titans",
-            "3rd Md": "135",
-            "4th Att": "54",
-            "4th Md": "12",
-            "Rush 1st": "8",
-            "Rush 1st%": "60",
-            "Scrm Plys": "20.6"
+            "team_name": "Colts",
+            "3rd Att": "146",
+            "3rd Md": "56",
+            "4th Att": "16",
+            "4th Md": "10",
+            "Rush 1st": "80",
+            "Rush 1st%": "25.2",
+            "Scrm Plys": "695"
         },
         {
-            "3rd Att": "49ers\n            \n          \n\n            49ers",
-            "3rd Md": "138",
-            "4th Att": "55",
+            "team_name": "Falcons",
+            "3rd Att": "128",
+            "3rd Md": "44",
+            "4th Att": "10",
+            "4th Md": "5",
+            "Rush 1st": "55",
+            "Rush 1st%": "19.9",
+            "Scrm Plys": "620"
+        },
+        {
+            "team_name": "Ravens",
+            "3rd Att": "162",
+            "3rd Md": "57",
+            "4th Att": "19",
+            "4th Md": "7",
+            "Rush 1st": "61",
+            "Rush 1st%": "22.8",
+            "Scrm Plys": "713"
+        },
+        {
+            "team_name": "Chargers",
+            "3rd Att": "129",
+            "3rd Md": "46",
+            "4th Att": "24",
             "4th Md": "15",
-            "Rush 1st": "6",
-            "Rush 1st%": "64",
-            "Scrm Plys": "28.4"
+            "Rush 1st": "59",
+            "Rush 1st%": "23.4",
+            "Scrm Plys": "675"
         },
         {
-            "3rd Att": "Dolphins\n            \n          \n\n            Dolphins",
-            "3rd Md": "128",
-            "4th Att": "46",
-            "4th Md": "18",
-            "Rush 1st": "7",
-            "Rush 1st%": "70",
-            "Scrm Plys": "26.8"
+            "team_name": "Buccaneers",
+            "3rd Att": "135",
+            "3rd Md": "63",
+            "4th Att": "10",
+            "4th Md": "4",
+            "Rush 1st": "54",
+            "Rush 1st%": "22.4",
+            "Scrm Plys": "634"
+        },
+        {
+            "team_name": "Texans",
+            "3rd Att": "134",
+            "3rd Md": "55",
+            "4th Att": "13",
+            "4th Md": "5",
+            "Rush 1st": "68",
+            "Rush 1st%": "25.8",
+            "Scrm Plys": "633"
+        },
+        {
+            "team_name": "Eagles",
+            "3rd Att": "132",
+            "3rd Md": "57",
+            "4th Att": "24",
+            "4th Md": "11",
+            "Rush 1st": "43",
+            "Rush 1st%": "22.6",
+            "Scrm Plys": "626"
+        },
+        {
+            "team_name": "Cardinals",
+            "3rd Att": "139",
+            "3rd Md": "65",
+            "4th Att": "11",
+            "4th Md": "4",
+            "Rush 1st": "92",
+            "Rush 1st%": "26.7",
+            "Scrm Plys": "715"
+        },
+        {
+            "team_name": "Steelers",
+            "3rd Att": "143",
+            "3rd Md": "56",
+            "4th Att": "13",
+            "4th Md": "6",
+            "Rush 1st": "64",
+            "Rush 1st%": "22.1",
+            "Scrm Plys": "683"
+        },
+        {
+            "team_name": "Rams",
+            "3rd Att": "132",
+            "3rd Md": "53",
+            "4th Att": "13",
+            "4th Md": "9",
+            "Rush 1st": "67",
+            "Rush 1st%": "23.7",
+            "Scrm Plys": "633"
+        },
+        {
+            "team_name": "Seahawks",
+            "3rd Att": "152",
+            "3rd Md": "67",
+            "4th Att": "17",
+            "4th Md": "6",
+            "Rush 1st": "78",
+            "Rush 1st%": "25.6",
+            "Scrm Plys": "742"
+        },
+        {
+            "team_name": "Bills",
+            "3rd Att": "145",
+            "3rd Md": "56",
+            "4th Att": "16",
+            "4th Md": "9",
+            "Rush 1st": "56",
+            "Rush 1st%": "20.9",
+            "Scrm Plys": "665"
+        },
+        {
+            "team_name": "Raiders",
+            "3rd Att": "143",
+            "3rd Md": "60",
+            "4th Att": "15",
+            "4th Md": "7",
+            "Rush 1st": "82",
+            "Rush 1st%": "25.3",
+            "Scrm Plys": "711"
+        },
+        {
+            "team_name": "Patriots",
+            "3rd Att": "139",
+            "3rd Md": "55",
+            "4th Att": "12",
+            "4th Md": "8",
+            "Rush 1st": "57",
+            "Rush 1st%": "19.9",
+            "Scrm Plys": "657"
+        },
+        {
+            "team_name": "Jaguars",
+            "3rd Att": "130",
+            "3rd Md": "44",
+            "4th Att": "25",
+            "4th Md": "12",
+            "Rush 1st": "52",
+            "Rush 1st%": "23.1",
+            "Scrm Plys": "624"
+        },
+        {
+            "team_name": "Bengals",
+            "3rd Att": "121",
+            "3rd Md": "53",
+            "4th Att": "8",
+            "4th Md": "2",
+            "Rush 1st": "82",
+            "Rush 1st%": "29.9",
+            "Scrm Plys": "628"
+        },
+        {
+            "team_name": "Chiefs",
+            "3rd Att": "126",
+            "3rd Md": "45",
+            "4th Att": "16",
+            "4th Md": "7",
+            "Rush 1st": "62",
+            "Rush 1st%": "24.9",
+            "Scrm Plys": "597"
+        },
+        {
+            "team_name": "Broncos",
+            "3rd Att": "114",
+            "3rd Md": "44",
+            "4th Att": "19",
+            "4th Md": "10",
+            "Rush 1st": "78",
+            "Rush 1st%": "26.7",
+            "Scrm Plys": "634"
+        },
+        {
+            "team_name": "Dolphins",
+            "3rd Att": "142",
+            "3rd Md": "51",
+            "4th Att": "21",
+            "4th Md": "9",
+            "Rush 1st": "72",
+            "Rush 1st%": "26.6",
+            "Scrm Plys": "687"
+        },
+        {
+            "team_name": "Titans",
+            "3rd Att": "135",
+            "3rd Md": "54",
+            "4th Att": "12",
+            "4th Md": "8",
+            "Rush 1st": "60",
+            "Rush 1st%": "20.6",
+            "Scrm Plys": "634"
+        },
+        {
+            "team_name": "49ers",
+            "3rd Att": "138",
+            "3rd Md": "55",
+            "4th Att": "15",
+            "4th Md": "6",
+            "Rush 1st": "64",
+            "Rush 1st%": "28.4",
+            "Scrm Plys": "674"
         }
     ]
 }

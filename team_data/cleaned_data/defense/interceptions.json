@@ -1,196 +1,228 @@
 {
-    "table_data": [
+    "team_data": [
         {
-            "INT": "49ers\n            \n          \n\n            49ers",
-            "INT TD": "15",
-            "INT Yds": "0",
-            "Lng": "214"
-        },
-        {
-            "INT": "Bengals\n            \n          \n\n            Bengals",
-            "INT TD": "12",
-            "INT Yds": "1",
-            "Lng": "110"
-        },
-        {
-            "INT": "Cowboys\n            \n          \n\n            Cowboys",
-            "INT TD": "12",
-            "INT Yds": "5",
-            "Lng": "249"
-        },
-        {
-            "INT": "Saints\n            \n          \n\n            Saints",
-            "INT TD": "12",
-            "INT Yds": "1",
-            "Lng": "74"
-        },
-        {
-            "INT": "Colts\n            \n          \n\n            Colts",
-            "INT TD": "11",
-            "INT Yds": "2",
-            "Lng": "168"
-        },
-        {
-            "INT": "Jaguars\n            \n          \n\n            Jaguars",
-            "INT TD": "11",
-            "INT Yds": "2",
-            "Lng": "171"
-        },
-        {
-            "INT": "Steelers\n            \n          \n\n            Steelers",
-            "INT TD": "11",
-            "INT Yds": "1",
-            "Lng": "123"
-        },
-        {
-            "INT": "Ravens\n            \n          \n\n            Ravens",
-            "INT TD": "10",
-            "INT Yds": "1",
-            "Lng": "171"
-        },
-        {
-            "INT": "Bills\n            \n          \n\n            Bills",
-            "INT TD": "10",
-            "INT Yds": "1",
-            "Lng": "82"
-        },
-        {
-            "INT": "Broncos\n            \n          \n\n            Broncos",
-            "INT TD": "10",
-            "INT Yds": "0",
-            "Lng": "81"
-        },
-        {
-            "INT": "Raiders\n            \n          \n\n            Raiders",
-            "INT TD": "10",
-            "INT Yds": "1",
-            "Lng": "219"
-        },
-        {
-            "INT": "Jets\n            \n          \n\n            Jets",
-            "INT TD": "10",
-            "INT Yds": "0",
-            "Lng": "115"
-        },
-        {
-            "INT": "Bears\n            \n          \n\n            Bears",
-            "INT TD": "9",
-            "INT Yds": "1",
-            "Lng": "98"
-        },
-        {
-            "INT": "Browns\n            \n          \n\n            Browns",
-            "INT TD": "9",
-            "INT Yds": "1",
-            "Lng": "78"
-        },
-        {
-            "INT": "Vikings\n            \n          \n\n            Vikings",
-            "INT TD": "9",
-            "INT Yds": "0",
-            "Lng": "111"
-        },
-        {
-            "INT": "Giants\n            \n          \n\n            Giants",
-            "INT TD": "9",
-            "INT Yds": "2",
-            "Lng": "208"
-        },
-        {
-            "INT": "Lions\n            \n          \n\n            Lions",
-            "INT TD": "8",
-            "INT Yds": "1",
-            "Lng": "116"
-        },
-        {
-            "INT": "Cardinals\n            \n          \n\n            Cardinals",
-            "INT TD": "8",
-            "INT Yds": "0",
-            "Lng": "84"
-        },
-        {
-            "INT": "Seahawks\n            \n          \n\n            Seahawks",
-            "INT TD": "8",
-            "INT Yds": "3",
-            "Lng": "170"
-        },
-        {
-            "INT": "Buccaneers\n            \n          \n\n            Buccaneers",
-            "INT TD": "8",
-            "INT Yds": "1",
-            "Lng": "80"
-        },
-        {
-            "INT": "Texans\n            \n          \n\n            Texans",
-            "INT TD": "7",
-            "INT Yds": "0",
-            "Lng": "46"
-        },
-        {
-            "INT": "Dolphins\n            \n          \n\n            Dolphins",
-            "INT TD": "7",
-            "INT Yds": "1",
-            "Lng": "84"
-        },
-        {
-            "INT": "Chiefs\n            \n          \n\n            Chiefs",
-            "INT TD": "6",
-            "INT Yds": "0",
-            "Lng": "41"
-        },
-        {
-            "INT": "Patriots\n            \n          \n\n            Patriots",
-            "INT TD": "6",
-            "INT Yds": "0",
-            "Lng": "42"
-        },
-        {
-            "INT": "Chargers\n            \n          \n\n            Chargers",
-            "INT TD": "6",
-            "INT Yds": "0",
-            "Lng": "31"
-        },
-        {
-            "INT": "Commanders\n            \n          \n\n            Commanders",
-            "INT TD": "6",
-            "INT Yds": "0",
-            "Lng": "26"
-        },
-        {
-            "INT": "Falcons\n            \n          \n\n            Falcons",
-            "INT TD": "5",
-            "INT Yds": "0",
+            "team_name": "49ers",
+            "INT": "15",
+            "INT TD": "0",
+            "INT Yds": "214",
             "Lng": "32"
         },
         {
-            "INT": "Panthers\n            \n          \n\n            Panthers",
-            "INT TD": "5",
-            "INT Yds": "2",
-            "Lng": "202"
+            "team_name": "Bengals",
+            "INT": "12",
+            "INT TD": "1",
+            "INT Yds": "110",
+            "Lng": "30"
         },
         {
-            "INT": "Packers\n            \n          \n\n            Packers",
+            "team_name": "Cowboys",
+            "INT": "12",
             "INT TD": "5",
-            "INT Yds": "1",
-            "Lng": "66"
+            "INT Yds": "249",
+            "Lng": "63T"
         },
         {
-            "INT": "Rams\n            \n          \n\n            Rams",
-            "INT TD": "5",
-            "INT Yds": "0",
+            "team_name": "Saints",
+            "INT": "12",
+            "INT TD": "1",
+            "INT Yds": "74",
+            "Lng": "27T"
+        },
+        {
+            "team_name": "Jets",
+            "INT": "12",
+            "INT TD": "1",
+            "INT Yds": "145",
+            "Lng": "51T"
+        },
+        {
+            "team_name": "Colts",
+            "INT": "11",
+            "INT TD": "2",
+            "INT Yds": "168",
+            "Lng": "66T"
+        },
+        {
+            "team_name": "Jaguars",
+            "INT": "11",
+            "INT TD": "2",
+            "INT Yds": "171",
+            "Lng": "61"
+        },
+        {
+            "team_name": "Steelers",
+            "INT": "11",
+            "INT TD": "1",
+            "INT Yds": "123",
+            "Lng": "32T"
+        },
+        {
+            "team_name": "Ravens",
+            "INT": "10",
+            "INT TD": "1",
+            "INT Yds": "171",
+            "Lng": "52T"
+        },
+        {
+            "team_name": "Bills",
+            "INT": "10",
+            "INT TD": "1",
+            "INT Yds": "82",
+            "Lng": "32T"
+        },
+        {
+            "team_name": "Broncos",
+            "INT": "10",
+            "INT TD": "0",
+            "INT Yds": "81",
+            "Lng": "33"
+        },
+        {
+            "team_name": "Raiders",
+            "INT": "10",
+            "INT TD": "1",
+            "INT Yds": "219",
+            "Lng": "75T"
+        },
+        {
+            "team_name": "Bears",
+            "INT": "9",
+            "INT TD": "1",
+            "INT Yds": "98",
+            "Lng": "42T"
+        },
+        {
+            "team_name": "Browns",
+            "INT": "9",
+            "INT TD": "1",
+            "INT Yds": "78",
+            "Lng": "34T"
+        },
+        {
+            "team_name": "Dolphins",
+            "INT": "9",
+            "INT TD": "2",
+            "INT Yds": "184",
+            "Lng": "99"
+        },
+        {
+            "team_name": "Vikings",
+            "INT": "9",
+            "INT TD": "0",
+            "INT Yds": "111",
+            "Lng": "43"
+        },
+        {
+            "team_name": "Giants",
+            "INT": "9",
+            "INT TD": "2",
+            "INT Yds": "208",
+            "Lng": "102"
+        },
+        {
+            "team_name": "Lions",
+            "INT": "8",
+            "INT TD": "1",
+            "INT Yds": "116",
+            "Lng": "50T"
+        },
+        {
+            "team_name": "Cardinals",
+            "INT": "8",
+            "INT TD": "0",
+            "INT Yds": "84",
+            "Lng": "46"
+        },
+        {
+            "team_name": "Seahawks",
+            "INT": "8",
+            "INT TD": "3",
+            "INT Yds": "170",
+            "Lng": "97"
+        },
+        {
+            "team_name": "Buccaneers",
+            "INT": "8",
+            "INT TD": "1",
+            "INT Yds": "80",
+            "Lng": "28T"
+        },
+        {
+            "team_name": "Texans",
+            "INT": "7",
+            "INT TD": "0",
+            "INT Yds": "46",
+            "Lng": "33"
+        },
+        {
+            "team_name": "Chiefs",
+            "INT": "6",
+            "INT TD": "0",
+            "INT Yds": "41",
+            "Lng": "16"
+        },
+        {
+            "team_name": "Patriots",
+            "INT": "6",
+            "INT TD": "0",
+            "INT Yds": "42",
+            "Lng": "20"
+        },
+        {
+            "team_name": "Chargers",
+            "INT": "6",
+            "INT TD": "0",
+            "INT Yds": "31",
+            "Lng": "9"
+        },
+        {
+            "team_name": "Commanders",
+            "INT": "6",
+            "INT TD": "0",
+            "INT Yds": "26",
+            "Lng": "23"
+        },
+        {
+            "team_name": "Falcons",
+            "INT": "5",
+            "INT TD": "0",
+            "INT Yds": "32",
+            "Lng": "25"
+        },
+        {
+            "team_name": "Panthers",
+            "INT": "5",
+            "INT TD": "2",
+            "INT Yds": "202",
+            "Lng": "99"
+        },
+        {
+            "team_name": "Packers",
+            "INT": "5",
+            "INT TD": "1",
+            "INT Yds": "66",
+            "Lng": "37T"
+        },
+        {
+            "team_name": "Rams",
+            "INT": "5",
+            "INT TD": "0",
+            "INT Yds": "18",
             "Lng": "18"
         },
         {
-            "INT": "Eagles\n            \n          \n\n            Eagles",
-            "INT TD": "5",
-            "INT Yds": "1",
-            "Lng": "103"
+            "team_name": "Eagles",
+            "INT": "5",
+            "INT TD": "1",
+            "INT Yds": "103",
+            "Lng": "70T"
         },
         {
-            "INT": "Titans\n            \n          \n\n            Titans",
-            "INT TD": "3",
-            "INT Yds": "0",
-            "Lng": "38"
+            "team_name": "Titans",
+            "INT": "3",
+            "INT TD": "0",
+            "INT Yds": "38",
+            "Lng": "18"
         }
     ]
 }
